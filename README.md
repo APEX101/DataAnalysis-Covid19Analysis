@@ -1,6 +1,6 @@
 
 # Covid19Analysis
-[](demo.gif)
+![](demo.gif)
 
 
 
